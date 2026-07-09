@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
