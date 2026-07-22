@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
+| [0867-transpose-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
