@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
