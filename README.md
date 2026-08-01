@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0048-rotate-image) |
@@ -92,5 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
