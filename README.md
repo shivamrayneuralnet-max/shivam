@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0861-score-after-flipping-matrix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -101,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
