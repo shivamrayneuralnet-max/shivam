@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
         // s = O(k)
-        // tc = )= o(log n + klogk) 
+        // tc = o(log n + klogk) 
         int n=arr.size();
         vector<int>ans(k); // k element to insert karunga
         if(x<arr[0]){
