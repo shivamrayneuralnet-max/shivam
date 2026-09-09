@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0779-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0090-subsets-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0861-score-after-flipping-matrix) |
 ## Binary Search
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
