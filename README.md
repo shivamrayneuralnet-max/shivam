@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0455-assign-cookies) |
 ## Newton's Method
 |  |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0060-permutation-sequence) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0779-k-th-symbol-in-grammar) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
