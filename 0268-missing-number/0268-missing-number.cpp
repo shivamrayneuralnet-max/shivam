@@ -2,11 +2,15 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int n=nums.size();
-        int excepted_sum=(n*(n+1))/2;
-        int actual_sum=0;
-        for(int i=0;i<n;i++){
-            actual_sum+=nums[i];
+        int i=0;
+        while(i<n){
+            int correctIdx=nums[i];
+            if(correctIdx==i || nums[i]==n) i++;
+            else swap(nums[i],nums[correctIdx]);
         }
-        return (excepted_sum - actual_sum);
+        for(int i=0;i<n;i++){
+            if(nums[i]!=i) return i;
+        }
+        return n;
     }
 };
