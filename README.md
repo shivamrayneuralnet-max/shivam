@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0867-transpose-matrix) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2483-minimum-penalty-for-a-shop) |
