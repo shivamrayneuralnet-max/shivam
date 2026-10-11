@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1402-reducing-dishes](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1402-reducing-dishes) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2483-minimum-penalty-for-a-shop) |
