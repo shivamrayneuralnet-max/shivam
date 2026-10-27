@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2187-minimum-time-to-complete-trips) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3024-type-of-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/3024-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0779-k-th-symbol-in-grammar) |
+| [3024-type-of-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0658-find-k-closest-elements) |
 | [1402-reducing-dishes](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1402-reducing-dishes) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3024-type-of-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/3024-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2483-minimum-penalty-for-a-shop) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
