@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0242-valid-anagram) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
