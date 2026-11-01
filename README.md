@@ -266,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/3024-type-of-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
