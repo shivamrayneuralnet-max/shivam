@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2187-minimum-time-to-complete-trips) |
+| [2326-spiral-matrix-iv](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3024-type-of-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/3024-type-of-triangle) |
 ## Math
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2326-spiral-matrix-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0867-transpose-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -290,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
