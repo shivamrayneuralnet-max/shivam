@@ -20,6 +20,7 @@ public:
         return c->next;
      }
     ListNode* sortList(ListNode* head) {
+        // base case
         if(head==NULL || head->next==NULL) return head;
         // to find the left middle
         ListNode* slow=head;
