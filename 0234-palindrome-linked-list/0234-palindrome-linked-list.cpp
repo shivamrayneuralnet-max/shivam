@@ -11,26 +11,23 @@ public:
         return pre;
     }
     bool isPalindrome(ListNode* head) {
-        ListNode* c=new ListNode(100);
-        ListNode* temp=head;
-        ListNode* tempC=c;
-        while(temp){
-            ListNode* node=new ListNode(temp->val);
-            tempC->next=node;
-            temp=temp->next;
-            tempC=tempC->next;
-        }
-        c=c->next;
-        c=reverse(c);
-        ListNode* a=head;
-        ListNode* b=c;
-        while(a){
-            if(a->val!=b->val) return false;
-            else{
-                a=a->next;
-                b=b->next;
-            }
-        }
-        return true;
+        // if the fast half and second half is reverse of each other then it is palindrome
+        ListNode* slow=head;
+        ListNode* fast=head;
+       while(fast->next!=NULL && fast->next->next!=NULL){
+           slow=slow->next;
+           fast=fast->next->next;
+       }
+       // slow is at the left middle
+       ListNode* newHead =reverse(slow->next);
+       ListNode* a=head;
+       ListNode* b=newHead;
+       while(b){
+        if(a->val!=b->val) return false;
+        a=a->next;
+        b=b->next;
+       }
+       return true;
+
     }
 };
