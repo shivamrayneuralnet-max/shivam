@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0234-palindrome-linked-list) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0205-isomorphic-strings) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0022-generate-parentheses) |
 ## Recursion
 |  |
