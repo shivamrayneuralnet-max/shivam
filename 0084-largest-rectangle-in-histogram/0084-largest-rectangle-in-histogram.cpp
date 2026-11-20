@@ -24,9 +24,10 @@ public:
         }
         int mxArea=0;
         for(int i=0;i<n;i++){
-            int height=arr[i];
-            int breadth=nsi[i]-psi[i]-1;
-            int area=height*breadth;
+            // int height=arr[i];
+            // int breadth=nsi[i]-psi[i]-1;
+            // int area=height*breadth;
+            int area=arr[i]*(nsi[i]-psi[i]-1);
             mxArea=max(mxArea,area);
         }
          return mxArea;
