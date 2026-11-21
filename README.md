@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0287-find-the-duplicate-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0713-subarray-product-less-than-k) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0658-find-k-closest-elements) |
 ## Backtracking
 |  |
@@ -352,4 +355,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
