@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0069-sqrtx) |
