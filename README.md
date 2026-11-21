@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0042-trapping-rain-water) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0240-search-a-2d-matrix-ii) |
