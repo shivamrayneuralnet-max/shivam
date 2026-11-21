@@ -19,7 +19,7 @@ public:
         for(int i=0;i<n-k+1;i++){
             if(j<i) j=i;
             int mx=arr[j];  // starting of window
-            while(j < i+k){   // mean if nge is insice the window
+            while(j < i+k){   // mean if nge is inside the window
                 mx=arr[j];
                 if(ngi[j]>=i+k) break;
                j=ngi[j];
