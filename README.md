@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0779-k-th-symbol-in-grammar) |
 | [3024-type-of-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/3024-type-of-triangle) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0445-add-two-numbers-ii) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2074-reverse-nodes-in-even-length-groups) |
