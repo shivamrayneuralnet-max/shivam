@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0084-largest-rectangle-in-histogram) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0268-missing-number) |
