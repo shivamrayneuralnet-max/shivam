@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0445-add-two-numbers-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0119-pascals-triangle-ii) |
 | [1402-reducing-dishes](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1402-reducing-dishes) |
@@ -397,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
