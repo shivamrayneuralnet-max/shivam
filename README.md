@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1991-find-the-middle-index-in-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2187-minimum-time-to-complete-trips) |
 | [2326-spiral-matrix-iv](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2326-spiral-matrix-iv) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2326-spiral-matrix-iv](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Trie
 |  |
