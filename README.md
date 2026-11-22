@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1991-find-the-middle-index-in-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1991-find-the-middle-index-in-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2187-minimum-time-to-complete-trips) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/shivamrayneuralnet-max/shivam/tree/master/2326-spiral-matrix-iv) |
 ## Greedy
 |  |
