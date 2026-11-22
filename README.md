@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0209-minimum-size-subarray-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivamrayneuralnet-max/shivam/tree/master/0779-k-th-symbol-in-grammar) |
