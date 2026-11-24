@@ -30,12 +30,12 @@ public:
     }
     
     int top() {
-        if(st.top()<mn) return mn;
-        else return st.top();
+        if(st.top()<mn) return (int)mn;
+        else return (int)st.top();
     }
     
     int getMin() {  // 0(1);
-       return mn;
+       return (int)mn;
     }
 };
 
